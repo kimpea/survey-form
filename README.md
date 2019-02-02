@@ -27,3 +27,10 @@ You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is rec
 - User Story #15: Inside the form element, I am presented with a textarea at the end for additional comments.
 - User Story #16: Inside the form element, I am presented with a button with id="submit" to submit all my inputs.
 
+### Testing:
+
+The HTML and CSS code for this application have been passed through the W3C Validation Service and errors brought up have been corrected.
+The website has been tested on all device screen sizes available in Mozilla Developer Tools.
+It has also been tested using freeCodeCamp's Code Pen test suite.
+
+The CodePen can be viewed [here](https://codepen.io/kimaypea/pen/gqWGoR).
