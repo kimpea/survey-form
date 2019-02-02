@@ -30,3 +30,8 @@ html, body {
 label {
     font-weight: bold;
   }
+
+#submit {
+    font-weight: bold;
+}
+  
