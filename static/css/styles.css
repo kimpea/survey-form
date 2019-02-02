@@ -34,3 +34,7 @@ label {
 #submit {
     font-weight: bold;
 }
+
+.form-row {
+    padding-bottom: 10px;
+}
