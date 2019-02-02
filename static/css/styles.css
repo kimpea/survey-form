@@ -1,7 +1,13 @@
+/*-- Google Fonts --*/
+@import url('https://fonts.googleapis.com/css?family=Rubik:500|Work+Sans');
+
+/*-- HTML & Body Styles --*/
 html, body {
     background-color: #032b43;
+    font-family: 'Work Sans', sans-serif;
 }
 
+/*-- Special Styles --*/
 #main {
     background-color: #ffba08;
 }
@@ -9,4 +15,10 @@ html, body {
 .container {
     background-color: #fafafa;
     color: #000
+}
+
+/*-- Other Styles --*/
+#title {
+    font-family: 'Rubik', sans-serif;
+    font-size: 30px;
 }
