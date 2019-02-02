@@ -22,6 +22,10 @@ html, body {
 }
 
 /*-- Other Styles --*/
+.intro {
+    text-align: center;
+}
+
 #title {
     font-family: 'Rubik', sans-serif;
     font-size: 30px;
