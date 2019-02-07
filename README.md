@@ -34,3 +34,4 @@ The website has been tested on all device screen sizes available in Mozilla Deve
 It has also been tested using freeCodeCamp's Code Pen test suite.
 
 The CodePen can be viewed [here](https://codepen.io/kimaypea/pen/gqWGoR).
+The website can also be viewed via GitHub Pages [here]().
