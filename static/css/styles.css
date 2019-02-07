@@ -3,7 +3,7 @@
 
 /*-- HTML & Body Styles --*/
 html, body {
-    background-color: #032b43;
+    background-color: #032b43 !important;
     font-family: 'Work Sans', sans-serif;
 }
 
